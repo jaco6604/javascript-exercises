@@ -1,3 +1,4 @@
+
 const add = function(a, b) {
 	return a + b;
 };
@@ -33,7 +34,7 @@ const factorial = function(a) {
     result *= i;
   }
   return result;
-};
+
 
 // Do not edit below this line
 module.exports = {
